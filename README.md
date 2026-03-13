@@ -1,39 +1,66 @@
-[Program-1 WAP to calculate numbers](# ASSI-1)
+[Program-1 WAP to Add,Mul,Div,Sub using classes and object](# ASSI-1)
 
 [Program-2 WAP to test primes](# ASSI-2)
 
 ## ASSI-1
 ```
-public class Calculator {
-  public static void main(String[] args) {   // main method
-        // converting command line arguments into integers
-        int a = Integer.parseInt(args[0]);
-        int b = Integer.parseInt(args[1]);
-        // calling methods
-        add(a, b);
-        sub(a, b);
-        mul(a, b);
-        div(a, b);
+import java.util.Scanner;
+
+class Calculator {
+    int a, b;
+
+    // Method for addition
+    void add() {
+        System.out.println("Addition = " + (a + b));
     }
-    // addition
-    public static void add(int a, int b) {
-        System.out.println("Addition: " + (a + b));
+
+    // Method for subtraction
+    void sub() {
+        System.out.println("Subtraction = " + (a - b));
     }
-    // subtraction
-    public static void sub(int a, int b) {
-        System.out.println("Subtraction: " + (a - b));
+
+    // Method for multiplication
+    void mul() {
+        System.out.println("Multiplication = " + (a * b));
     }
-    // multiplication
-    public static void mul(int a, int b) {
-        System.out.println("Multiplication: " + (a * b));
+
+    // Method for division
+    void div() {
+        if (b != 0)
+            System.out.println("Division = " + (a / b));
+        else
+            System.out.println("Division by zero not possible");
     }
-    // division
-    public static void div(int a, int b) {
-        System.out.println("Division: " + (a / b));
+}
+
+public class Main {
+    public Main() {
+    }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        Calculator obj = new Calculator();  // creating object
+
+        System.out.print("Enter first number: ");
+        obj.a = sc.nextInt();
+
+        System.out.print("Enter second number: ");
+        obj.b = sc.nextInt();
+
+        obj.add();
+        obj.sub();
+        obj.mul();
+        obj.div();
+    }
+
+    @Override
+    public String toString() {
+        return "Main []";
     }
 }
 ```
-<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/900d97f0-3345-4f96-9702-13292031ef3a" />
+
 
 ## ASSI-2
 ```
