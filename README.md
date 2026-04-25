@@ -185,7 +185,7 @@ System.out.println("Grade: D");
 
 Output:
 
-<img width="416" height="66" alt="image" src="https://github.com/user-attachments/assets/1ca31ab6-de24-45a0-a3d9-53f8654f3443" />
+<img width="416" height="66" alt="image" src="https://github.com/user-attachments/assets/38b3b330-f04c-486c-bcea-2950a2908292" />
 
 
 
@@ -244,7 +244,7 @@ class StarPatterns {
 
 Output:
 
-<img width="688" height="574" alt="image" src="https://github.com/user-attachments/assets/c4fbca0d-3119-4c63-acb8-e5e2583fa7d9" />
+<img width="688" height="574" alt="image" src="https://github.com/user-attachments/assets/d162caef-f3d7-4270-8e80-d2c8a59aac23" />
 
 
 # z
@@ -293,7 +293,7 @@ public class Main {
 ```              
 Output:
 
-<img width="690" height="244" alt="image" src="https://github.com/user-attachments/assets/5601832b-b100-44c8-972d-e45a6d051d31" />
+<img width="690" height="244" alt="image" src="https://github.com/user-attachments/assets/b7b5285d-1d13-44c7-a0bb-411aeb840a6f" />
 
 
 # a
@@ -348,7 +348,7 @@ public class Main {
 
 Output:
 
-<img width="696" height="310" alt="image" src="https://github.com/user-attachments/assets/12d59248-5ae6-4642-9415-9a80f38125c7" />
+<img width="696" height="310" alt="image" src="https://github.com/user-attachments/assets/f7b57d6c-e6a2-4343-a6d5-e2a1a6b5caf9" />
 
 
 
@@ -401,7 +401,7 @@ public class Main {
 
 Output:
 
-<img width="662" height="240" alt="image" src="https://github.com/user-attachments/assets/e6e80f2c-c431-4ce2-99dd-f20eccf9420a" />
+<img width="662" height="240" alt="image" src="https://github.com/user-attachments/assets/d3bf9758-76a3-40de-910a-02af3e5a84f7" />
 
 
 # c
@@ -459,7 +459,7 @@ public class Main {
 
 Output:
 
-<img width="648" height="310" alt="image" src="https://github.com/user-attachments/assets/b996276d-8740-478c-a561-f90df5fb0db0" />
+<img width="648" height="310" alt="image" src="https://github.com/user-attachments/assets/e71807d3-336c-418b-bcf8-51f7f4454022" />
 
 
 
@@ -524,7 +524,7 @@ public class TestArray {
 
 Output:
 
-<img width="652" height="312" alt="image" src="https://github.com/user-attachments/assets/df0ba705-eccc-419a-bea8-27d137d0fdff" />
+<img width="652" height="312" alt="image" src="https://github.com/user-attachments/assets/f06f0949-7067-4489-81b9-2e65cffca812" />
 
 
 
@@ -633,7 +633,7 @@ public class TestMatrix {
 
 Output:
 
-<img width="694" height="804" alt="image" src="https://github.com/user-attachments/assets/41ab23a4-d0da-4f2c-b7d7-8f1d3f32d0e9" />
+<img width="694" height="804" alt="image" src="https://github.com/user-attachments/assets/72e5e3dd-5ed6-499c-af1b-a34ea1a7509e" />
 
 
 
@@ -761,39 +761,39 @@ public class RunnableDemo {
 Output:
 
 <p>
-<img width="1312" height="1502" alt="image" src="https://github.com/user-attachments/assets/a52b74ca-f1eb-4c78-bb29-16d954cd3d11" />
+<img width="1312" height="1502" alt="image" src="https://github.com/user-attachments/assets/ea504ab6-4ef9-4508-bed7-78926c036d72" />
 </p>
 
 <p>
-<img width="1298" height="1502" alt="image" src="https://github.com/user-attachments/assets/c1bf613b-0fe2-471e-82a7-1417fa9cabef" />
+<img width="1298" height="1502" alt="image" src="https://github.com/user-attachments/assets/3c8d6e1e-24b3-4a82-a645-3925ce48135e" />
 </p>
 
 <p>
-<img width="1258" height="1496" alt="image" src="https://github.com/user-attachments/assets/8d4d1c80-c056-4237-9460-af828d5a5ff9" />
+<img width="1258" height="1496" alt="image" src="https://github.com/user-attachments/assets/5c2c8d22-d708-4bef-a598-4f8ba29f371d" />
 </p>
 
 <p>
-<img width="1198" height="1496" alt="image" src="https://github.com/user-attachments/assets/b273bcab-6279-446b-bd21-0d354be23c55" />
+<img width="1198" height="1496" alt="image" src="https://github.com/user-attachments/assets/5c951c13-31c9-4a37-aae5-f546561b3b02" />
 </p>
 
 <p>
-<img width="1286" height="1508" alt="image" src="https://github.com/user-attachments/assets/97f68f3c-e992-405e-88f4-9a3cefee0d0c" />
+<img width="1286" height="1508" alt="image" src="https://github.com/user-attachments/assets/07fd745c-1f36-4212-8c70-8cfc76ee8553" />
 </p>
 
 <p>
-<img width="1262" height="1498" alt="image" src="https://github.com/user-attachments/assets/6652f09f-1168-45dc-b1a9-27fe58866f1e" />
+<img width="1262" height="1498" alt="image" src="https://github.com/user-attachments/assets/dc560f48-bab4-4550-a6c3-6e130f16b431" />
 </p>
 
 <p>
-<img width="1282" height="1222" alt="image" src="https://github.com/user-attachments/assets/7b3c56b9-ae0e-438c-9931-7f21372c198b" />
+<img width="1282" height="1222" alt="image" src="https://github.com/user-attachments/assets/896c656f-32ce-420c-9131-4b1721e70304" />
 </p>
 
 <p>
-<img width="1262" height="1430" alt="image" src="https://github.com/user-attachments/assets/1fbd81c8-bf5d-4688-b262-b4a543f342ad" />
+<img width="1262" height="1430" alt="image" src="https://github.com/user-attachments/assets/48662566-87b0-4ea1-a496-e984289a6df2" />
 </p>
 
 <p>
-<img width="1230" height="1426" alt="image" src="https://github.com/user-attachments/assets/75690a06-0eb7-456b-94bb-d957bbedd1d5" />
+<img width="1230" height="1426" alt="image" src="https://github.com/user-attachments/assets/17fa36c0-265d-495b-9400-0426809becc7" />
 </p>
 
 
@@ -853,7 +853,7 @@ public class JoinDemo {
 
 Output:
 
-<img width="1246" height="1330" alt="image" src="https://github.com/user-attachments/assets/c10450c2-82a2-4e37-896f-ac738537c170" />
+<img width="1246" height="1330" alt="image" src="https://github.com/user-attachments/assets/7c95e6c1-fa01-42a7-88ea-5da3299f3ef4" />
 
 
 
@@ -916,7 +916,7 @@ public class AddTwoNumbersSwing {
 
 Output:
 
-<img width="766" height="426" alt="image" src="https://github.com/user-attachments/assets/90648726-c962-40fa-9eb0-2b2302dc1e68" />
+<img width="766" height="426" alt="image" src="https://github.com/user-attachments/assets/15c7ce00-22ea-476d-a857-b51d26cfccd7" />
 
 
 # q
@@ -1000,19 +1000,19 @@ public class SwingCalculator {
 Output:
 
 <p>
-<img width="764" height="574" alt="image" src="https://github.com/user-attachments/assets/e32e51d8-ea25-419e-8596-48960073fdeb" />
+<img width="764" height="574" alt="image" src="https://github.com/user-attachments/assets/fee4f0a2-1102-4e7b-b0ce-cd0a08b5d818" />
 </p>
 
 <p>
-<img width="768" height="576" alt="image" src="https://github.com/user-attachments/assets/fb49a091-e5f1-4749-9ab9-1a76a24b3976" />
+<img width="768" height="576" alt="image" src="https://github.com/user-attachments/assets/aba373b0-cacb-4c73-a469-c20da55001ef" />
 </p>
 
 <p>
-<img width="758" height="572" alt="image" src="https://github.com/user-attachments/assets/4dc3c7e4-1cdf-4d70-8c5a-d05ed8d02c40" />
+<img width="758" height="572" alt="image" src="https://github.com/user-attachments/assets/88a756f5-1315-48b2-8ec0-84b8bf516c40" />
 </p>
 
 <p>
-<img width="760" height="574" alt="image" src="https://github.com/user-attachments/assets/3eb0a9e2-76ee-459a-bedc-3e9db4bd875b" />
+<img width="760" height="574" alt="image" src="https://github.com/user-attachments/assets/307ade7f-2564-4bc9-b376-969ae2ef95bd" />
 </p>
 
 
@@ -1117,7 +1117,7 @@ public class MatrixAdditionSwing {
 
 Output:
 
-<img width="958" height="770" alt="image" src="https://github.com/user-attachments/assets/374a36aa-8158-476d-ab27-25125135e6a6" />
+<img width="958" height="770" alt="image" src="https://github.com/user-attachments/assets/e0e7f245-9543-4de4-92fa-427c651493eb" />
 
 
 # s
@@ -1242,7 +1242,7 @@ public class ShapeDrawer extends JFrame implements ActionListener {
 
 Output:
 
-<img width="1564" height="1174" alt="image" src="https://github.com/user-attachments/assets/f211569f-9e45-4cd3-b7fe-73990faf506d" />
+<img width="1564" height="1174" alt="image" src="https://github.com/user-attachments/assets/26f0e2f6-d76a-4908-bb40-442a4e3c425e" />
 
 
 # t
@@ -1368,7 +1368,7 @@ public class PaintBrush extends JFrame {
 
 Output:
 
-<img width="1760" height="1176" alt="image" src="https://github.com/user-attachments/assets/2e431d1d-6b06-49d5-82af-356b9aecab02" />
+<img width="1760" height="1176" alt="image" src="https://github.com/user-attachments/assets/bd5ef108-198a-4116-af7a-2d2d626630ce" />
 
 
 # v
@@ -1435,7 +1435,7 @@ public class Main {
 
 Output:
 
-<img width="642" height="214" alt="image" src="https://github.com/user-attachments/assets/86aa0ab9-cde5-40dd-b7ec-b074788da8bc" />
+<img width="642" height="214" alt="image" src="https://github.com/user-attachments/assets/4a45fba5-a038-4616-a773-79f87a8735f9" />
 
 
 # w
@@ -1476,7 +1476,7 @@ public class Main {
 
 Output:
 
-<img width="520" height="88" alt="image" src="https://github.com/user-attachments/assets/77430f9e-430e-40d0-8b34-fb3d3465d638" />
+<img width="520" height="88" alt="image" src="https://github.com/user-attachments/assets/32c646bd-b0f1-4210-94dc-d8b5ac282c21" />
 
 
 # e
@@ -1525,7 +1525,7 @@ public class Main {
 
 Output:
 
-<img width="816" height="348" alt="image" src="https://github.com/user-attachments/assets/a2133d65-76f2-4b6e-8508-c05e85810048" />
+<img width="816" height="348" alt="image" src="https://github.com/user-attachments/assets/c3a8774a-34b1-48fc-b896-4f0b750d9b43" />
 
 
 # f
@@ -1566,7 +1566,7 @@ public class Main {
 
 Output:
 
-<img width="918" height="78" alt="image" src="https://github.com/user-attachments/assets/21b89565-c20a-47b8-8407-f4fd7f7bbef9" />
+<img width="918" height="78" alt="image" src="https://github.com/user-attachments/assets/5525c068-9f95-49f5-8a16-3c7185b4c674" />
 
 
 # g
@@ -1630,11 +1630,11 @@ public class ByteFileCopy {
 Output:
 
 <p>
-<img width="710" height="48" alt="image" src="https://github.com/user-attachments/assets/7c51fee3-c113-4f5d-9c79-f96782b918a9" />
+<img width="710" height="48" alt="image" src="https://github.com/user-attachments/assets/66920324-fc36-4649-8762-1dab3344ff5a" />
 </p>
 
 <p>
-<img width="694" height="58" alt="image" src="https://github.com/user-attachments/assets/89945636-ba11-4236-9048-c9a27b4a0553" />
+<img width="694" height="58" alt="image" src="https://github.com/user-attachments/assets/fd8ba24e-618d-456b-a1b0-7f07b60b888b" />
 </p>
 
 # h
@@ -1676,7 +1676,7 @@ public class Main {
 
 Output:
 
-<img width="616" height="104" alt="image" src="https://github.com/user-attachments/assets/c4efe213-ed98-4ebb-a2a6-0c0406dfe4b0" />
+<img width="616" height="104" alt="image" src="https://github.com/user-attachments/assets/f9809dc7-afef-46a4-b26c-bd69365ca950" />
 
 
 # i
@@ -1913,7 +1913,7 @@ class Factorial {
 
 Output:
 
-<img width="644" height="68" alt="image" src="https://github.com/user-attachments/assets/db338f55-cb89-42ad-bccf-b36c446a8826" />
+<img width="644" height="68" alt="image" src="https://github.com/user-attachments/assets/cc8ed5e1-575b-4594-8371-d57010b2ed51" />
 
 
 ```
@@ -1945,7 +1945,7 @@ class Armstrong {
 
 Output:
 
-<img width="656" height="70" alt="image" src="https://github.com/user-attachments/assets/1c9db5d1-6713-44c5-9640-b21af9a2ca60" />
+<img width="656" height="70" alt="image" src="https://github.com/user-attachments/assets/305b31bf-378b-4737-a640-f22259f327eb" />
 
 
 ```
@@ -1978,7 +1978,7 @@ class Palindrome {
 
 Output:
 
-<img width="648" height="70" alt="image" src="https://github.com/user-attachments/assets/71722e9b-3900-40ec-a158-efa95c402788" />
+<img width="648" height="70" alt="image" src="https://github.com/user-attachments/assets/352ea813-d01c-4a86-a8b6-2eed0cef224f" />
 
 
 ```
@@ -2007,7 +2007,7 @@ class Fibonacci {
 
 Output:
 
-<img width="644" height="72" alt="image" src="https://github.com/user-attachments/assets/5a7fe804-310b-4053-ae53-9ae666b1e6c9" />
+<img width="644" height="72" alt="image" src="https://github.com/user-attachments/assets/4e560cf0-3020-4136-b155-a1245c5b486e" />
 
 
 ```
@@ -2027,4 +2027,4 @@ class Pattern {
 
 Output:
 
-<img width="550" height="162" alt="image" src="https://github.com/user-attachments/assets/576557d9-5bb8-4226-85ea-c52cd61e32a3" />
+<img width="550" height="162" alt="image" src="https://github.com/user-attachments/assets/999c9cd0-b60a-4e45-bb69-754532fce956" />
