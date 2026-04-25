@@ -142,7 +142,7 @@ public class LoopTest {
 ```
 Output :
 
-<img width="740" height="678" alt="image" src="https://github.com/user-attachments/assets/a5e4f501-a533-4bbc-945f-aeed3313ed64" />
+<img width="740" height="678" alt="image" src="https://github.com/user-attachments/assets/2c583ec7-e9f0-4b51-9b62-66f3f109c599" />
 
 
 
