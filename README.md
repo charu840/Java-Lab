@@ -101,7 +101,8 @@ class Calculator {
 
 Output:
 
-<img width="572" height="208" alt="image" src="https://github.com/user-attachments/assets/21602bd8-7523-4416-9e7e-f6996df68d78" />
+<img width="572" height="208" alt="image" src="https://github.com/user-attachments/assets/b635050f-3847-4332-b3a7-a61afa9ccdbe" />
+
 
 
 
