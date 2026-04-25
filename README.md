@@ -1882,7 +1882,7 @@ public class Main extends JFrame implements ActionListener {
 Output:
 
 <p>
-<img width="866" height="1074" alt="image" src="https://github.com/user-attachments/assets/843a8a88-83e6-4f24-b7b8-3301cccce3ad" />
+<img width="858" height="1076" alt="image" src="https://github.com/user-attachments/assets/cab045a2-0aaa-4c2a-9a55-90b4198dfe9b" />
 </p>
 
 # j
